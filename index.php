@@ -58,7 +58,7 @@
                     <div class="col-lg-3">
                         <h1>Вопрос 1</h1>
                             <input type="radio" name="rad1">
-                            <b>Какой-то вопрос<br>
+                            <b>Какой-то не вопрос<br>
                             <input type="radio" name="rad1">
                             <b>Какой-то вопрос<br>
                             <input type="radio" name="rad1">
