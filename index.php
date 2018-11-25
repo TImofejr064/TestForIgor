@@ -57,13 +57,14 @@
                 <div class="row justify-content-center">
                     <div class="col-lg-3">
                         <h1>Вопрос 1</h1>
-                            <input type="radio" name="rad1">
-                            <b>Какой-то не не вопрос<br>
-                            <input type="radio" name="rad1">
-                            <b>Какой-то вопрос<br>
-                            <input type="radio" name="rad1">
-                            <b>Какой-то вопрос<br>
-                                <button id="btn1" class="btn btn-success">Продолжить</button>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem nihil libero consectetur, accusamus ipsa placeat in quidem distinctio. Dignissimos, mollitia.</p>
+                            <input type="radio" name="rad1" value=1>
+                            <b>Какой-то вопрос</b><br>
+                            <input type="radio" name="rad1" value=2>
+                            <b>Какой-то вопрос</b><br>
+                            <input type="radio" name="rad1" value=3>
+                            <b>Какой-то вопрос</b><br>
+                                <button id="btn1"  class="btn btn-success">Продолжить</button>
                     </div>
                 </div>
             </div>
@@ -72,11 +73,12 @@
                 <div class="row justify-content-center">
                     <div class="col-lg-3">
                         <h1>Вопрос 2</h1>
-                        <input type="radio" name="rad1">
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum ab quo, nemo adipisci molestias minus explicabo, quas. Esse, maiores, animi?</p>
+                        <input type="radio" name="rad2" value=5>
                         <b>Какой-то вопрос<br>
-                            <input type="radio" name="rad1">
+                            <input type="radio" name="rad2" value=5>
                             <b>Какой-то вопрос<br>
-                                <input type="radio" name="rad1">
+                                <input type="radio" name="rad2" value=5>
                                 <b>Какой-то вопрос<br>
                                     <button id="btn2" class="btn btn-success">Продолжить</button>
                     </div>
@@ -87,11 +89,12 @@
                 <div class="row justify-content-center">
                     <div class="col-lg-3">
                         <h1>Вопрос 3</h1>
-                        <input type="radio" name="rad1">
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor illo, quibusdam sed eligendi minus laborum id minima molestias odit quasi.</p>
+                        <input type="radio" name="rad3" value=5>
                         <b>Какой-то вопрос<br>
-                            <input type="radio" name="rad1">
+                            <input type="radio" name="rad3" value=5>
                             <b>Какой-то вопрос<br>
-                                <input type="radio" name="rad1">
+                                <input type="radio" name="rad3" value=5>
                                 <b>Какой-то вопрос<br>
                                     <button id="btn3" class="btn btn-success">Продолжить</button>
                     </div>
@@ -102,11 +105,12 @@
                 <div class="row justify-content-center">
                     <div class="col-lg-3">
                         <h1>Вопрос 4</h1>
-                        <input type="radio" name="rad1">
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ea amet ipsam molestias nesciunt cum voluptates fugit inventore, iste ipsum repellendus.</p>
+                        <input type="radio" name="rad4" value=5>
                         <b>Какой-то вопрос<br>
-                            <input type="radio" name="rad1">
+                            <input type="radio" name="rad4" value=5>
                             <b>Какой-то вопрос<br>
-                                <input type="radio" name="rad1">
+                                <input type="radio" name="rad4" value=5>
                                 <b>Какой-то вопрос<br>
                                     <button id="btn4" class="btn btn-success">Продолжить</button>
                     </div>
@@ -117,11 +121,12 @@
                 <div class="row justify-content-center">
                     <div class="col-lg-3">
                         <h1>Вопрос 5</h1>
-                        <input type="radio" name="rad1">
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas tempore illo aperiam assumenda quo sit placeat magnam nisi officiis culpa?</p>
+                        <input type="radio" name="rad5" value=5>
                         <b>Какой-то вопрос<br>
-                            <input type="radio" name="rad1">
+                            <input type="radio" name="rad5" value=5>
                             <b>Какой-то вопрос<br>
-                                <input type="radio" name="rad1">
+                                <input type="radio" name="rad5" value=5>
                                 <b>Какой-то вопрос<br>
                                     <button id="btn5" class="btn btn-success">Продолжить</button>
                     </div>
@@ -132,11 +137,12 @@
                 <div class="row justify-content-center">
                     <div class="col-lg-3">
                         <h1>Вопрос 6</h1>
-                        <input type="radio" name="rad1">
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nihil dolore corporis facilis facere repellat dolores vero dolor vitae, libero illo!</p>
+                        <input type="radio" name="rad6" value=5>
                         <b>Какой-то вопрос<br>
-                            <input type="radio" name="rad1">
+                            <input type="radio" name="rad6" value=5>
                             <b>Какой-то вопрос<br>
-                                <input type="radio" name="rad1">
+                                <input type="radio" name="rad6" value=5>
                                 <b>Какой-то вопрос<br>
                                     <button id="btn6" class="btn btn-success">Продолжить</button>
                     </div>
@@ -147,11 +153,12 @@
                 <div class="row justify-content-center">
                     <div class="col-lg-3">
                         <h1>Вопрос 7</h1>
-                        <input type="radio" name="rad1">
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut voluptatem perspiciatis minus quaerat veritatis obcaecati odit incidunt voluptates magnam tempore.</p>
+                        <input type="radio" name="rad7" value=5>
                         <b>Какой-то вопрос<br>
-                            <input type="radio" name="rad1">
+                            <input type="radio" name="rad7" value=5>
                             <b>Какой-то вопрос<br>
-                                <input type="radio" name="rad1">
+                                <input type="radio" name="rad7" value=5>
                                 <b>Какой-то вопрос<br>
                                     <button id="btn7" class="btn btn-success">Продолжить</button>
                     </div>
@@ -162,11 +169,12 @@
                 <div class="row justify-content-center">
                     <div class="col-lg-3">
                         <h1>Вопрос 8</h1>
-                        <input type="radio" name="rad1">
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore fuga libero ex, nemo, quaerat doloribus odio nesciunt numquam ipsa molestias!</p>
+                        <input type="radio" name="rad8" value=5>
                         <b>Какой-то вопрос<br>
-                            <input type="radio" name="rad1">
+                            <input type="radio" name="rad8" value=5>
                             <b>Какой-то вопрос<br>
-                                <input type="radio" name="rad1">
+                                <input type="radio" name="rad8" value=5>
                                 <b>Какой-то вопрос<br>
                                     <button id="btn8" class="btn btn-success">Продолжить</button>
                     </div>
@@ -177,11 +185,12 @@
                 <div class="row justify-content-center">
                     <div class="col-lg-3">
                         <h1>Вопрос 9</h1>
-                        <input type="radio" name="rad1">
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestiae magnam beatae, assumenda quaerat laborum eum voluptatem temporibus architecto consequuntur, quam.</p>
+                        <input type="radio" name="rad9" value=5>
                         <b>Какой-то вопрос<br>
-                            <input type="radio" name="rad1">
+                            <input type="radio" name="rad9" value=5>
                             <b>Какой-то вопрос<br>
-                                <input type="radio" name="rad1">
+                                <input type="radio" name="rad9" value=5>
                                 <b>Какой-то вопрос<br>
                                     <button id="btn9" class="btn btn-success">Продолжить</button>
                     </div>
@@ -192,13 +201,15 @@
                 <div class="row justify-content-center">
                     <div class="col-lg-3">
                         <h1>Вопрос 10</h1>
-                        <input type="radio" name="rad1">
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas labore inventore voluptatem id. Expedita magnam aut recusandae, ut magni impedit.</p>
+                        <input type="radio" name="rad10" value=5>
                         <b>Какой-то вопрос<br>
-                            <input type="radio" name="rad1">
+                            <input type="radio" name="rad10" value=5>
                             <b>Какой-то вопрос<br>
-                                <input type="radio" name="rad1">
+                                <input type="radio" name="rad10" value=5>
                                 <b>Какой-то вопрос<br>
                                     <button id="btn10" class="btn btn-success">Продолжить</button>
+                                    <p id='pp'></p>
                     </div>
                 </div>
             </div>
@@ -209,53 +220,63 @@
 <script>
     //вопрос 1
     $('#btn1').on('click',function () {
-        $('.testframe2').show('100');
-        $('.testframe').hide('100');
+        $('.testframe2').slideDown('1');
+        $('.testframe').hide('1');
+        var quest1 = $('input[name=rad1]:checked').val();
+        alert (quest1);
     });
     //вопрос 2
     $('#btn2').on('click',function () {
-        $('.testframe3').show('100');
-        $('.testframe2').hide('100');
+        $('.testframe3').slideDown('1');
+        $('.testframe2').hide('1');
+        var quest2 = $('input[name=rad2]:checked').val();
     });
     //вопрос 3
     $('#btn3').on('click',function () {
-        $('.testframe4').show('100');
-        $('.testframe3').hide('100');
+        $('.testframe4').slideDown('1');
+        $('.testframe3').hide('1');
+        var quest3 = $('input[name=rad3]:checked').val();
     });
-    //вопрос 1
+    //вопрос 4
     $('#btn4').on('click',function () {
-        $('.testframe5').show('100');
-        $('.testframe4').hide('100');
+        $('.testframe5').slideDown('1');
+        $('.testframe4').hide('1');
+        var quest4 = $('input[name=rad4]:checked').val();
     });
-    //вопрос 1
+    //вопрос 5
     $('#btn5').on('click',function () {
-        $('.testframe6').show('100');
-        $('.testframe5').hide('100');
+        $('.testframe6').slideDown('1');
+        $('.testframe5').hide('1');
+        var quest5 = $('input[name=rad5]:checked').val();
     });
-    //вопрос 1
+    //вопрос 6
     $('#btn6').on('click',function () {
-        $('.testframe7').show('100');
-        $('.testframe6').hide('100');
+        $('.testframe7').slideDown('1');
+        $('.testframe6').hide('1');
+        var quest6 = $('input[name=rad6]:checked').val();
     });
-    //вопрос 1
+    //вопрос 7
     $('#btn7').on('click',function () {
-        $('.testframe8').show('100');
-        $('.testframe7').hide('100');
+        $('.testframe8').slideDown('1');
+        $('.testframe7').hide('1');
+        var quest7 = $('input[name=rad7]:checked').val();
     });
-    //вопрос 1
+    //вопрос 8
     $('#btn8').on('click',function () {
-        $('.testframe9').show('100');
-        $('.testframe8').hide('100');
+        $('.testframe9').slideDown('1');
+        $('.testframe8').hide('1');
+        var quest8 = $('input[name=rad8]:checked').val();
     });
-    //вопрос 1
+    //вопрос 9
     $('#btn9').on('click',function () {
-        $('.testframe10').show('100');
-        $('.testframe9').hide('100');
+        $('.testframe10').slideDown('1');
+        $('.testframe9').hide('1');
+        var quest9 = $('input[name=rad9]:checked').val();
     });
-    //вопрос 1
+    //вопрос 10
     $('#btn10').on('click',function () {
-        $('.testframe10').show('100');
-        $('.testframe').hide('100');
+        var quest10 = $('input[name=rad10]:checked').val();
+        $('#pp').append('12')
     });
 </script>
 </html>
